@@ -8,6 +8,7 @@ func Swap(a int, b int) (int, int) {
     return b, a
 }
 
+//for integer sub
 func Sub(a int, b int) int {
     return a-b
 }
