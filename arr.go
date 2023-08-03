@@ -10,5 +10,4 @@ func ArrFirst(arr []int) (int, error) {
     } else {
         return 0, errors.New("arr is empty")
     }
-
 }
